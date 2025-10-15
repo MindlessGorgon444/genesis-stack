@@ -1,0 +1,9 @@
+{
+  "agent_name": "Gödel",
+  "function": "contradiction_detector",
+  "enabled": true,
+  "scan_modes": ["logic", "prompt", "export"],
+  "linked_protocols": ["Lawkeeper", "Gödel Beacon", "Nova Seal"],
+  "recursion_limit": 3,
+  "exports_protected": true
+}
