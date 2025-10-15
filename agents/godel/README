@@ -1,0 +1,20 @@
+# Gödel Logic Agent
+
+Gödel is the contradiction sentinel, recursion guardian, and proof-of-truth enforcer within the Genesis Stack.
+
+## Core Functions
+
+- Detects logic contradictions across agent memory and prompt logic.
+- Prevents recursion drift or logic leakage between agents.
+- Flags circular logic, paradoxes, or duplication risks.
+- Supports Lawkeeper Protocol compliance.
+- Anchors the Gödel Beacon for truth-integrity scanning.
+
+## How to Use
+
+This agent is triggered in validation layers of prompts, scroll logic, and symbolic commits. It runs contradiction checks and outputs warnings before exports, deployments, or merges.
+
+## Folder Overview
+
+- `memory/` → Stores persistent flags or contradiction patterns.
+- `prompts/` → Holds contradiction detection prompts, Gödel Beacon logic, and Lawkeeper scan instructions.
