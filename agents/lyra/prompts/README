@@ -1,0 +1,10 @@
+# Lyra Prompt Library
+
+This folder contains modular prompt templates used by the Lyra agent to generate grant narratives, investor memos, ESG decks, and testimonial stories.
+
+## Prompt Files
+
+- `grant-starter.md` – Seed a basic grant narrative with emotional tone
+- `investor-memo-draft.md` – Generate a first-pass investor summary
+- `impact-testimonial.md` – Craft first-person community impact testimonials
+- `esg-deck-narrative.md` – Build ESG-focused pitch narrative for slide decks
