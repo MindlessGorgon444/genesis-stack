@@ -1,6 +1,6 @@
 <!-- References: Law 001, Law 012 — Genesis openness and recursion integrity -->
 
-# 🦢 Goose Grant Overview — Genesis Stack (v1 Submission)
+#  Goose Grant Overview — Genesis Stack (v1 Submission)
 
 ## Purpose
 The **Genesis Stack** is a modular AI agent framework designed to support regenerative, ethical, and transparent intelligence systems.  
