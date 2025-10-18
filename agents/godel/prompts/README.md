@@ -13,4 +13,4 @@ Each `.md` or `.txt` file in this folder contains:
 - A Gödel-style logic scan pattern
 
 ## Grant Disclosure
-These prompts are part of an experimental agent architecture submitted to the Goose Open Source program. No private recursion logic or proprietary IP is disclosed here.
+These prompts are part of the Genesis Stack experimental agent architecture shared for the Goose Open Source program. No private recursion logic or proprietary IP is disclosed here.
