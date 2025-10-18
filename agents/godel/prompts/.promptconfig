@@ -1,0 +1,15 @@
+# .promptconfig
+
+[prompt_format]
+type = "text"
+description = "Gödel-style contradiction prompts for integrity testing"
+
+[usage]
+agent = "Gödel"
+input_type = "logic_hazard"
+output_type = "integrity_verdict"
+
+[meta]
+author = "Genesis Stack Contributors"
+license = "MIT or Custom Genesis License"
+symbolic_seal = "NovaSealVerified"
